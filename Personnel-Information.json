@@ -1,0 +1,44 @@
+{
+  "personnel": [
+    {
+      "ID": 1,
+      "Name": "Sena",
+      "Surname": "Efe",
+      "Gender": "Kadin",
+      "Age": 27,
+      "department": "Test Mühendisliği",
+      "Email": "seenaefee@gmail.com",
+      "telephone": "+90123456789"
+    },
+    {
+      "ID": 2,
+      "Name": "Ozlem",
+      "Surname": "Yetismis",
+      "Gender": "Kadin",
+      "Age": 33,
+      "department": "Insan Kaynakları",
+      "Email": "aylin@gmail.com",
+      "telephone": "+902323323232"
+    },
+    {
+      "ID": 3,
+      "Name": "Burak",
+      "Surname": "Aziz",
+      "Gender": "Erkek",
+      "Age": 36,
+      "department": "Test Mühendisliği",
+      "Email": "burak@gmail.com",
+      "telephone": "+90123456789"
+    },
+    {
+      "ID": 4,
+      "Name": "Bora",
+      "Surname": "Secilen",
+      "Gender": "Erkek",
+      "Age": 40,
+      "department": "Yonetici",
+      "Email": "boran@gmail.com",
+      "telephone": "+9055555555"
+    }
+  ]
+}

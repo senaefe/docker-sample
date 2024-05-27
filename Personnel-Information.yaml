@@ -1,0 +1,36 @@
+personnel:
+  - ID: 1
+    Name: Sena
+    Surname: Efe
+    Gender: Kadin
+    Age: 28
+    Department: Test Muhendisligi
+    Email: seenaefee@gmail.com
+    Telephone: +901234567899
+
+  - ID: 2
+    Name: Bora
+    Surname: Mavi
+    Gender: Erkek
+    Age: 40
+    Department: Yonetici
+    Email: bora@gmail.com
+    Telephone: +901234568888
+
+  - ID: 3
+    Name: Pelin
+    Surname: Akil
+    Gender: Kadin
+    Age: 23
+    Department: Insan Kaynaklari
+    Email: pelin@gmail.com
+    Telephone: +901234568999
+
+  - ID: 4
+    Name: Emre
+    Surname: Cetin
+    Gender: Erkek
+    Age: 31
+    Department: Yazilim Muhendisligi
+    Email: emre@gmail.com
+    Telephone: +901234564444

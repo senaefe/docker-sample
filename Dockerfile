@@ -11,4 +11,4 @@ RUN apt-get install -y python3
 COPY .. /app
 WORKDIR /app
 
-CMD ["python3", "src/app.py"]
+CMD ["python3", "app.py"]

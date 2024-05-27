@@ -1,0 +1,43 @@
+<Personnel>
+    <Members>
+        <ID>1</ID>  <!-- ID = Integer -->
+        <Name>Sena</Name>  <!-- Name = String -->
+        <Surname>Efe</Surname> <!-- Surname = String -->
+        <Gender>Kadin</Gender> <!-- Gender = String -->
+        <Age>28</Age>  <!-- Age = Integer -->
+        <department>Test Mühendisliği</department> <!-- Name = String -->
+        <email>seenaefee@gmail.com</email> <!-- department = String -->
+        <telephone>+90123456789</telephone> <!-- telephone = String -->
+    </Members>
+    <Members>
+        <ID>2</ID>
+        <Name>Huseyin</Name>
+        <Surname>Ogul</Surname>
+        <Gender>Erkek</Gender>
+        <Age>33</Age>
+        <department>Is Analistligi</department>
+        <email>huseyin@gmail.com</email>
+        <telephone>+9012344444</telephone>
+    </Members>
+    <Members>
+        <ID>3</ID>
+        <Name>Ayse</Name>
+        <Surname>Sekman</Surname>
+        <Gender>Kadin</Gender>
+        <Age>25</Age>
+        <department>Yazilim Muhendisligi</department>
+        <email>ayse@gmail.com</email>
+        <telephone>+9012344555</telephone>
+    </Members>
+    <Members>
+        <ID>4</ID>
+        <Name>Kadir</Name>
+        <Surname>Toz</Surname>
+        <Gender>Erkek</Gender>
+        <Age>36</Age>
+        <department>Insan Kaynaklari</department>
+        <email>kadir@gmail.com</email>
+        <telephone>+90123446666</telephone>
+    </Members>
+</Personnel>
+
